@@ -1,0 +1,24 @@
+{
+  "name": "amazin-books",
+  "version": "1.0.0",
+  "description": "Totally not an amazon ripoff",
+  "main": "amazin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torrencj/Amazin-Books.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/torrencj/Amazin-Books/issues"
+  },
+  "homepage": "https://github.com/torrencj/Amazin-Books#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^3.2.3",
+    "mysql": "^2.14.1"
+  }
+}
