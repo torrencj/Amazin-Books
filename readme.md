@@ -13,7 +13,7 @@ Run the schema and seeds file. Then enter your password in the amazin.js file.
 
 ---
 
-## Commands:
+## Commands
 
 All commands are shown on the menu.
 
