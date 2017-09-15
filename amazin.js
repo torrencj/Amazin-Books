@@ -295,7 +295,7 @@ function adminMenu() {
       } else if (resp.action == adminPrompt[0].choices[3]) {
         getNewProductInfo().then(res =>{
           addNewProduct(res).then(res=>{
-            resolve(console.log(res););
+            resolve(console.log(res));
           })
         })
       }
